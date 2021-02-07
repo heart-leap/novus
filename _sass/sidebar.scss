@@ -1,10 +1,9 @@
 $twitter: #1DA1F2;
 $rss: #f26522;
-$mail: #5d5c5d;
+$discord: #7289DA;
 $instagram: #e1306c;
 $facebook: #3b5998;
-$youtube: #13ec30;
-$discord: #7289da;
+$youtube: #ff0000;
 $grey: #a2a2a2;
 
 .container{
@@ -71,8 +70,8 @@ $grey: #a2a2a2;
             #rss:hover{
                 color: $rss;
             }
-            #envelope:hover{
-                color: $mail;
+            #discord:hover{
+                color: $discord;
             }
             #instagram:hover{
                 color: $instagram;
