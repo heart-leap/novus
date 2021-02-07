@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Episodes
+title: Episódios
 ---
 <div class = "episodes">
 
