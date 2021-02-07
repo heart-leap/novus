@@ -8,7 +8,7 @@ pages:
   - {name: 'Get This Theme', url: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
 
 social:
-  - {icon: 'discord', type: "brand", link: https://discord.gg/byF9jATCAE'}
+  - {icon: 'discord', type: "brand", link: 'https://discord.gg/byF9jATCAE'}
   - {icon: 'youtube', type: "brand", link: 'https://www.youtube.com/channel/UCUoyZ92cB68PmfaPdIxfcUw'}  
   - {icon: 'rss', type: "solid", link: 'https://anchor.fm/s/30ee142c/podcast/rss'}
 
