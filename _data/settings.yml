@@ -8,12 +8,9 @@ pages:
   - {name: 'Get This Theme', url: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
 
 social:
-  - {icon: 'instagram', type: "brand", link: '#'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ArteLettura'}
-  - {icon: 'facebook', type: "brand", link: '#'}
-  - {icon: 'youtube', type: "brand", link: '#'}  
-  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
-  - {icon: 'rss', type: "solid", link: "#"}
+  - {icon: 'discord', type: "brand", link: https://discord.gg/byF9jATCAE'}
+  - {icon: 'youtube', type: "brand", link: 'https://www.youtube.com/channel/UCUoyZ92cB68PmfaPdIxfcUw'}  
+  - {icon: 'rss', type: "solid", link: 'https://anchor.fm/s/30ee142c/podcast/rss'}
 
 websites-podcast:
   - {name: 'Apple Podcast', link: '#'}
@@ -21,13 +18,13 @@ websites-podcast:
   - {name: 'YouTube', link: '#'}
   - {name: 'Android', link: '#'}
   - {name: 'Spreaker', link: '#'}
-  - {name: 'Google Podcast', link: '#'}
+  - {name: 'Google Podcast', link: ''}
   - {name: 'Anchor', link: '#'}
   - {name: 'Castbox', link: '#'}
   - {name: 'Overcast', link: '#'}
   - {name: 'RadioPublic', link: '#'}
   - {name: 'Breaker', link: '#'}  
-  - {name: 'RSS', link: '#'}
+  - {name: 'RSS', link: 'https://anchor.fm/s/30ee142c/podcast/rss'}
 
 translate-date: true #See _includes/date.html to translate the months' name
 shownotes: true
