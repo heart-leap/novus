@@ -1,6 +1,6 @@
 # Site settings
-title: "NVP"
-description: "A Nova Vertente aspira a ser uma comunidade onde criadores de conteúdo ‘underground’ podem publicar seu conteúdo de forma livre e segura para seus ouvintes. Espere episódios diários de seus podcasts mais baseados e ‘redpillados’."
+title: "Nova Vertente"
+description: "Nosso 'Podcast' aspira a ser uma comunidade onde criadores de conteúdo ‘underground’ podem publicar seu conteúdo de forma livre e segura para seus ouvintes. Espere episódios diários de seus podcasts mais baseados e ‘redpillados’."
 podcast-description: "A Nova Vertente aspira a ser uma comunidade onde criadores de conteúdo ‘underground’ podem publicar seu conteúdo de forma livre e segura para seus ouvintes. Espere episódios diários de seus podcasts mais baseados e ‘redpillados’."
 url:  "https://boring-pare-10cc36.netlify.app/" # Actual base url of the website
 baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
