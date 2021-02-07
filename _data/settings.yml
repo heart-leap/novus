@@ -2,7 +2,7 @@ analytics-id:
 #Pages
 pages:
   - {name: 'Episódios', url: 'episodes.html'}
-  - {name: 'Patreon', url: '#'}
+
 
 
 
