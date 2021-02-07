@@ -7,7 +7,7 @@ baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to
 author:
   name: "Leone Lo Schifoso"
   email: "leoneschifoso@protomail.com"
-  url: "#"
+  url: "https://twitter.com/SchifosoLo"
 permalink: pretty
 permalink: /:title
 keywords: [podcast, jekyll]
