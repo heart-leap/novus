@@ -1,11 +1,10 @@
 analytics-id: 
 #Pages
 pages:
-  - {name: 'Episodes', url: 'episodes.html'}
+  - {name: 'Episódios', url: 'episodes.html'}
   - {name: 'Patreon', url: '#'}
-  - {name: 'Shop', url: '#'}
-  - {name: 'GitHub', url: 'https://github.com/PandaSekh'}
-  - {name: 'Get This Theme', url: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
+
+
 
 social:
 
@@ -14,17 +13,13 @@ social:
   - {icon: 'rss', type: "solid", link: 'https://anchor.fm/s/30ee142c/podcast/rss'}
 
 websites-podcast:
-  - {name: 'Apple Podcast', link: '#'}
-  - {name: 'Spotify', link: '#'}
-  - {name: 'YouTube', link: '#'}
-  - {name: 'Android', link: '#'}
-  - {name: 'Spreaker', link: '#'}
-  - {name: 'Google Podcast', link: ''}
-  - {name: 'Anchor', link: '#'}
-  - {name: 'Castbox', link: '#'}
-  - {name: 'Overcast', link: '#'}
-  - {name: 'RadioPublic', link: '#'}
-  - {name: 'Breaker', link: '#'}  
+  - {name: 'Apple Podcast', link: 'https://podcasts.apple.com/br/podcast/nova-vertente/id1527978578'}
+  - {name: 'Spotify', link: 'https://open.spotify.com/show/3gRRtsCQtRN1v8UBuqkueJ'}
+  - {name: 'YouTube', link: 'https://www.youtube.com/channel/UCUoyZ92cB68PmfaPdIxfcUw'}
+  - {name: 'Google Podcast', link: 'https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMGVlMTQyYy9wb2RjYXN0L3Jzcw=='}
+  - {name: 'Anchor', link: 'https://anchor.fm/nova-vertente'}
+  - {name: 'Castbox', link: 'https://castbox.fm/channel/Nova-Vertente-id3221270?skip=0&limit=104&country=us'}
+  - {name: 'RadioPublic', link: 'https://radiopublic.com/nova-vertente-GMLKDl'} 
   - {name: 'RSS', link: 'https://anchor.fm/s/30ee142c/podcast/rss'}
 
 translate-date: true #See _includes/date.html to translate the months' name
