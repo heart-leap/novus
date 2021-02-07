@@ -10,7 +10,7 @@ pages:
 social:
 
   - {icon: 'youtube', type: "brand", link: 'https://www.youtube.com/channel/UCUoyZ92cB68PmfaPdIxfcUw'}  
-  - {icon: 'discord', type: "brand", link: 'https://discord.gg/byF9jATCAE​'}
+  - {icon: 'discord', type: "brand", link: 'https://discord.gg/byF9jATCAE'}
   - {icon: 'rss', type: "solid", link: 'https://anchor.fm/s/30ee142c/podcast/rss'}
 
 websites-podcast:
