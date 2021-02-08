@@ -8,7 +8,7 @@ $darker-color: rgba(0, 160, 227, 0.2);
             margin: 0px;
             padding: 0px;
             font-family: 'Karla', sans-serif;
-            color: #f1f1f1;
+            
 }
 html{
     scroll-behavior: smooth;
@@ -36,6 +36,7 @@ p{
     flex-direction: row;
     justify-content: space-evenly;
     align-items: flex-start;
+    color: chocolate;
     .content{
         order: 1;
         width: 55%;
