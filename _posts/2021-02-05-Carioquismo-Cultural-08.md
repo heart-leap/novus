@@ -11,4 +11,4 @@ videoid: 71X0Xjz_B6o #Copy here only the id of your YouTube video. Optional
 ---
 
 Mandem Seus Emails Para - carioquismocultural@gmail.com
-Entrem No Server do [Discord](https://discord.gg/PNJtkFmMap)
+e Entrem No Server do [Discord](https://discord.gg/PNJtkFmMap)
